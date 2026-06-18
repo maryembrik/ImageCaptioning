@@ -204,7 +204,7 @@ python evaluate.py --checkpoint checkpoints/flickr8k/best_model1.pth
 <div align="center">
 
 **Built by Mariem Brik · 2026**  
-ESPRIT · 4DS · Deep Learning Paper Reproduction Project
+ Deep Learning Paper Reproduction Project
 
 *If you're reading this as a recruiter or engineer — yes, I trained all 9 models myself. Yes, the BLEU scores are real. Yes, the demo is live.*
 
